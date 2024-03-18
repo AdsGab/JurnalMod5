@@ -1,4 +1,7 @@
+
 ﻿using System.ComponentModel;
+
+
 
 public class Penjumlahan
 {
@@ -51,5 +54,9 @@ public class SimpleDataBase<T>
         }
     }
 
+}
+
+
+    }
 }
 
